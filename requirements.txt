@@ -1,3 +1,4 @@
 Flask==2.2.2
 gptscript==0.4.1
 Werkzeug==2.2.2
+Gunicorn
